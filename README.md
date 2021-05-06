@@ -1,2 +1,3 @@
 # Python-Data-Project
-capstone project for data analysis and visualization using seaborn, panda, numpy, cufflinks
+project 1: learning analysing the data and visualization it using seaborn, panda, numpy, cufflinks
+project 2: learning linear regression, how to train and test the data
