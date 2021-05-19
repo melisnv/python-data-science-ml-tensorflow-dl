@@ -9,3 +9,6 @@
 *project 4:* k nearest neighbors
 
 *project 5:* decision trees and random forests model, second project with dtreeviz library
+
+*project 6:* Breast cancer wisconsin (diagnostic) dataset,analyzing the famous iris data set.(built-in datasets of python)
+
