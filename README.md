@@ -15,3 +15,6 @@
 
 *project 7:* K means clustering and analysing a college data
 
+*project 8:* Recommender systems
+
+
