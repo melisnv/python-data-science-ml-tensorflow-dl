@@ -17,4 +17,6 @@
 
 *project 8:* Recommender systems
 
+*project 9:* This dataset contains house sale prices for King County, which includes Seattle. Project for evaluating simple regression models.
+
 
