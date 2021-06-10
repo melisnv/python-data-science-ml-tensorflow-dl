@@ -19,4 +19,4 @@
 
 *project 9:* This dataset contains house sale prices for King County, which includes Seattle. Project for evaluating simple regression models.
 
-
+*project 10:* Working with the previous cancer diagnostic dataset in deep learning, building models, dropout and early stopping(callbacks).
