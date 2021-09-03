@@ -1,4 +1,4 @@
-# Python-Data-Project
+# Python Data Science and Machine Learning and Tensorflow 2 and Keras Deep Learning Bootcamp Mini Projects 
 (Mini Projects)
 
 *project 1:* learning analysing the data and visualization it using seaborn, panda, numpy, cufflinks
